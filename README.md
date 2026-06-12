@@ -16,19 +16,23 @@ Backend Developer • AI-powered workflows • Brazilian Jiu-Jitsu
 
 ## Core Stack
 
-**Languages/Frameworks:** Python, Node.js, Django, DRF, Flask, NestJS, Rust (Axum)  
-**Architecture:** Clean/Hexagonal, Repository Pattern, Service Layer, CQRS  
-**Data:** PostgreSQL, MongoDB  
-**DevOps/Cloud:** Docker, GitHub, Render, Supabase, Google Cloud Run  
-**Testing/Quality:** pytest, unit/integration testing, SonarQube  
-**AI:** Gemini API, MCP orchestration, Codex, OpenClaude
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python, TypeScript |
+| **Backend** | FastAPI, Django, Django REST Framework, NestJS |
+| **Agentic AI** | LLM Agents, Multi-Agent Systems, LangGraph, Agno, MCP, RAG, Function Calling |
+| **LLM Providers** | OpenAI, Anthropic, Gemini, Groq/Llama |
+| **Architecture** | Clean/Hexagonal, Repository Pattern, Service Layer, CQRS |
+| **Data & Messaging** | PostgreSQL, MongoDB, Redis, RabbitMQ |
+| **Infrastructure** | Docker, Azure, Supabase, Render, Google Cloud Run |
+| **Testing & Quality** | pytest, unit/integration testing, Ruff, SonarQube |
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,django,flask,nestjs,rust,postgres,mongodb,docker,git,github,graphql" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,ts,fastapi,django,nestjs,postgres,mongodb,redis,docker,git,github" alt="Tech stack icons" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcwos&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Top languages" />
+  <img src="./assets/languages-featured.svg" width="460" alt="Languages in featured projects: Python 61%, TypeScript 36%, Other 3%" />
 </p>
 
 ---
