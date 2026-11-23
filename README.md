@@ -1,40 +1,69 @@
-<h1 align="center">Hi there, I'm Jeremy 👋</h1>
-<p align="center">
-Backend Developer • AI-powered workflows • Brazilian Jiu-Jitsu
-</p>
+# Jeremy Delgado
 
-<p align="center">
-  <a href="mailto:jeremyjdsoftware@gmail.com">jeremyjdsoftware@gmail.com</a> •
-  <a href="https://linkedin.com/in/jeremydelgadosoft">LinkedIn</a>
-</p>
+**Backend & AI Engineer** · I build AI agents and the cloud platforms they run on.
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/k0U4q-0PiOQAAAAC/jujutsu-kaisen-aoi-todo.gif" width="320" alt="Aoi Todo GIF" />
-</p>
+Ecuador · [jeremyjdsoftware@gmail.com](mailto:jeremyjdsoftware@gmail.com) · [LinkedIn](https://linkedin.com/in/jeremydelgadosoft)
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## Core Stack
+## About
 
-| Area | Technologies |
+I design backend systems and AI agents that have to hold up in production. I use plain, deterministic code wherever an LLM isn't needed, keep the architecture clean, and lead small teams from planning to delivery.
+
+## Experience
+
+<table>
+<tr>
+<td>
+
+### Software Engineer · AI & Cloud
+
+<sub>Enterprise · Financial services</sub>
+
+- Built cloud infrastructure for multi-agent AI systems on GCP and AWS: Terraform, ECS Fargate and keyless cross-cloud auth.
+- Replaced LLM sub-agents with deterministic code to cut cost and errors.
+- Develop a customer self-service web portal on AWS: React, CloudFront, WAF and Lambda.
+
+`Google ADK` `Gemini` `Terraform` `AWS` `GCP` `Azure DevOps` `React`
+
+</td>
+</tr>
+<tr>
+<td>
+
+### Lead Full-Stack Developer
+
+<sub>Technical leadership · Internal platforms</sub>
+
+- Lead the development team behind an internal platform that digitizes certification workflows.
+- Own the architecture, planning and delivery: modular Django monolith, Celery workers, CI/CD.
+- Designed a multi-tenant SaaS edition with row-level security and AI document reading.
+
+`Django` `Celery` `FastAPI` `PostgreSQL` `Document AI` `React`
+
+</td>
+</tr>
+</table>
+
+## Selected work
+
+My professional work lives in private repos. The pinned repos below are the public ones worth opening first; here is what their cards can't show:
+
+- **Yapa** (Hackathon TAWS): multi-agent finance assistant on WhatsApp. Natural-language expense tracking, proactive budget alerts and RAG-grounded support, built with FastAPI, LangGraph, Supabase and React.
+- **RastroSeguro** (hackIAthon 2026): anti-fraud copilot for insurers. Prioritizes suspicious claims and explains the risk so a human makes the final call.
+- **Pulso** (OpenAI Buildathon): civic safety PWA with AI photo analysis of incidents, a real-time community map and a voice assistant grounded in live local data.
+- **Love4Pets**: polyglot microservices: a Rust REST API (Axum + SeaORM), a Python GraphQL service (Strawberry), TypeScript WebSockets for live notifications and a React frontend.
+- **SemiologIA**: turns a patient's symptoms into structured clinical information with AI, for consultation and follow-up.
+
+## Stack
+
+| Area | Tools |
 | --- | --- |
-| **Languages** | Python, TypeScript |
-| **Backend** | FastAPI, Django, Django REST Framework, NestJS |
-| **Agentic AI** | LLM Agents, Multi-Agent Systems, LangGraph, Agno, MCP, RAG, Function Calling |
-| **LLM Providers** | OpenAI, Anthropic, Gemini, Groq/Llama |
-| **Architecture** | Clean/Hexagonal, Repository Pattern, Service Layer, CQRS |
-| **Data & Messaging** | PostgreSQL, MongoDB, Redis, RabbitMQ |
-| **Infrastructure** | Docker, Azure, Supabase, Render, Google Cloud Run |
-| **Testing & Quality** | pytest, unit/integration testing, Ruff, SonarQube |
+| **Backend** | `Python` `TypeScript` `FastAPI` `Django` `NestJS` |
+| **AI** | `LangGraph` `Google ADK` `MCP` `RAG` `Gemini` `OpenAI` |
+| **Data** | `PostgreSQL` `Redis` `RabbitMQ` `Celery` |
+| **Cloud & DevOps** | `AWS` `GCP` `Terraform` `Docker` `Azure DevOps` |
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,fastapi,django,nestjs,postgres,mongodb,redis,docker,git,github" alt="Tech stack icons" />
-</p>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<p align="left">
-  <img src="./assets/languages-featured.svg" width="460" alt="Languages in featured projects: Python 61%, TypeScript 36%, Other 3%" />
-</p>
-
----
-
-🥋 I train Brazilian Jiu-Jitsu — discipline, fundamentals, and consistency.
+Off the keyboard I train Brazilian Jiu-Jitsu: fundamentals first, calm under pressure.
