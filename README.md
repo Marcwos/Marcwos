@@ -16,7 +16,7 @@ Ecuador · [Email](mailto:jeremyjdsoftware@gmail.com) · [LinkedIn](https://link
 
 ### Software Engineer · AI & Cloud
 
-<sub>Enterprise · Financial services</sub>
+<sub>AI agents · Cloud infrastructure · Frontend</sub>
 
 - Cloud infrastructure for multi-agent AI systems on GCP and AWS (Terraform, ECS Fargate).
 - Replaced LLM sub-agents with deterministic code to cut cost and errors.
